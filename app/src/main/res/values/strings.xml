@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ADTest</string>
+
+    <!--  adMob app id 測試  -->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <!-- 橫幅 測試 -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <!-- 插頁 測試 -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/8691691433</string>
+    <!-- 影片 測試 -->
+    <string name="video_ad_id">ca-app-pub-3940256099942544/5224354917</string>
+</resources>
